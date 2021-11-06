@@ -1,0 +1,26 @@
+.home-view-container {
+  .title {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px;
+  }
+
+  .label {
+    text-align: center;
+    width: 300px;
+    text-decoration: underline;
+  }
+
+  .bar {
+    width: 700px;
+  }
+
+  .donuts-container {
+    display: flex;
+    flex-direction: row;
+
+    .donut {
+      width: 300px;
+    }
+  }
+}

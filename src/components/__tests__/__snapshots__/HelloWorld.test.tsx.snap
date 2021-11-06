@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render <HelloWorld /> 1`] = `
+<div>
+  <div>
+    <p>
+      HelloWorld.content
+    </p>
+  </div>
+</div>
+`;
