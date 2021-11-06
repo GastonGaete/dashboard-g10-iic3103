@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dashboard-g10-iic3103/static/css/main.f81a87da.chunk.css",
+    "main.js": "/dashboard-g10-iic3103/static/js/main.ab7df6a0.chunk.js",
+    "main.js.map": "/dashboard-g10-iic3103/static/js/main.ab7df6a0.chunk.js.map",
+    "runtime-main.js": "/dashboard-g10-iic3103/static/js/runtime-main.44265373.js",
+    "runtime-main.js.map": "/dashboard-g10-iic3103/static/js/runtime-main.44265373.js.map",
+    "static/js/2.f1c7db25.chunk.js": "/dashboard-g10-iic3103/static/js/2.f1c7db25.chunk.js",
+    "static/js/2.f1c7db25.chunk.js.map": "/dashboard-g10-iic3103/static/js/2.f1c7db25.chunk.js.map",
+    "static/js/3.d816be9f.chunk.js": "/dashboard-g10-iic3103/static/js/3.d816be9f.chunk.js",
+    "static/js/3.d816be9f.chunk.js.map": "/dashboard-g10-iic3103/static/js/3.d816be9f.chunk.js.map",
+    "index.html": "/dashboard-g10-iic3103/index.html",
+    "static/css/main.f81a87da.chunk.css.map": "/dashboard-g10-iic3103/static/css/main.f81a87da.chunk.css.map",
+    "static/js/2.f1c7db25.chunk.js.LICENSE.txt": "/dashboard-g10-iic3103/static/js/2.f1c7db25.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/dashboard-g10-iic3103/static/media/getFetch.582d29c4.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44265373.js",
+    "static/js/2.f1c7db25.chunk.js",
+    "static/css/main.f81a87da.chunk.css",
+    "static/js/main.ab7df6a0.chunk.js"
+  ]
+}
